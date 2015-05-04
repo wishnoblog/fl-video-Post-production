@@ -69,17 +69,8 @@
 
 1. 投影片請先上傳到Slider Share網站（用於youtube說明）
 2. Youtube影片設定為公開。
-3. Youtube影片標題設定為「講道主題 經文 西元日期 信愛教會主日信息」，例如：`天上的榮光 基督復活的意義 哥林多前書 15 章12-49 節 20150412 信愛教會主日信息`。
-4. Youtube影片說明請設定為「  
-	主日信息講道：`2015`年`04`月`12`日    
-	主題：`天上的榮光 基督復活的意義`  
-	講員：`呂安靜長老`  
-	經文：`哥林多前書 15 章12-49 節`。  
-	投影片：`http://www.slideshare.net/fhchurch/`  
-	信愛教會網站: http://www.faithandlove.org.tw/  
-	高雄市苓雅區林森二路87號10F 辦公室：12F  
-	電話： 07-334-0356  
-」。
+3. 將資料張貼至 [內文張貼產生器](http://wishnoblog.github.io/FL-church-Post-content-gen/index.html)。
+4. 更新Youtube說明及Slider Share說明
 5. 連結分享至Facebook粉絲團。
 
 
